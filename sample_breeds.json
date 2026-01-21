@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Labrador Retriever",
+    "origin": "Canada",
+    "size": "Large",
+    "temperament": "Friendly, Active, Outgoing",
+    "description": "Labrador Retrievers are friendly, outgoing, and active dogs. They are one of the most popular dog breeds.",
+    "url": "https://example.com/labrador"
+  },
+  {
+    "name": "German Shepherd",
+    "origin": "Germany",
+    "size": "Large",
+    "temperament": "Confident, Courageous, Smart",
+    "description": "German Shepherds are confident, courageous, and intelligent. They are excellent working dogs.",
+    "url": "https://example.com/german-shepherd"
+  }
+]
